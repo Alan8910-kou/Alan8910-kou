@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Alan (Alan8910-kou)
 
-<!--
-**Alan8910-kou/Alan8910-kou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Fullstack & Data spécialisé dans la conception d'architectures sécurisées et l'intégration de modèles de Machine Learning. Basé à Libreville, Gabon, je travaille principalement à distance (Remote).
 
-Here are some ideas to get you started:
+## 🛠️ Stack Technique Principale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend :** Node.js, Express, API REST, WebSocket, Python (FastAPI / Flask)
+- **Frontend :** React.js, Tailwind CSS, Redux, Vite
+- **Data Science & ML :** XGBoost, Random Forest, Scikit-Learn, Pandas, Pipelines de données
+- **Bases de données & DevOps :** Docker, Docker Compose, PostgreSQL, SQLite, Redis, Migrations (Alembic)
+
+## 🚀 Réalisation Majeure : Amalet Secure
+
+J'ai conçu et développé de bout en bout **Amalet Secure**, un système de prévention et de détection de fraude en temps réel(toujours en développement). 
+- **Architecture :** Frontend React réactif connecté via WebSocket/API à un puissant backend Node.js.
+- **Moteur IA :** Intégration de modèles prédictifs (XGBoost & Random Forest) entraînés pour gérer le déséquilibre des classes (Imbalanced Data).
+- **Sécurité & MLOps :** Isolation des services via Docker, gestion fine des pipelines de données et protection contre les attaques de type DDoS.
+
+---
+💡 *Disponible pour des missions en Freelance ou des opportunités en Télétravail.*  
+📧 **Contact :** amaletalan@gmail.com
